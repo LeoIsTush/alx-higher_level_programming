@@ -1,1 +1,1 @@
-# Solutions to tasks on modules
+Solution to tasks on Python data structures
